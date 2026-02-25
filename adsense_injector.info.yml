@@ -1,0 +1,6 @@
+name: 'AdSense Injector'
+type: module
+description: 'Injects AdSense scripts for specific roles except administrator.'
+core_version_requirement: ^11
+package: Custom
+# made by Gemini  25.02.2026

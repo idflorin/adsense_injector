@@ -1,0 +1,13 @@
+adsense-google:
+  header: true  # <--- This forces it into the <head>
+  remote: https://pagead2.googlesyndication.com
+  license:
+    name: Google Terms of Service
+    url: https://policies.google.com/terms
+    gpl-compatible: false
+  js:
+    https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3276005982410787:
+      type: external
+      attributes:
+        async: true
+        crossorigin: anonymous
