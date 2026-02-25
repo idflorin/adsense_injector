@@ -1,7 +1,7 @@
 {
   "name": "idflorin/adsense_injector",
   "description": "A Drupal 11 module that injects the Google AdSense script for all user roles except administrator, using modern hook attributes and cache context best practices.",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",
   "require": {
